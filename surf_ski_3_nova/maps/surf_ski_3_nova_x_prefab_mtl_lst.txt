@@ -1,0 +1,10 @@
+importfilelist
+{
+	"file" "materials\models\weapons\w_models\w_snip_awp\awp.vmt"
+	"file" "materials\models\weapons\shared\shells\shotgun\shell_shotgun.vmt"
+	"file" "materials\models\weapons\shared\scope\scope_awp.vmt"
+	"file" "materials\models\weapons\w_models\w_shot_nova\shot_nova.vmt"
+	"file" "materials\models\surf_ski_3\center.vmt"
+	"file" "materials\models\ski_2_infir\closer.vmt"
+	"file" "materials\models\surf_ski_3\corner.vmt"
+}

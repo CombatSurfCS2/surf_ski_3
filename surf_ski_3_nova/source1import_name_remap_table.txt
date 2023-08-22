@@ -1,0 +1,7 @@
+"name_remap_table"
+{
+	"src2filenamechange"
+	{
+		"maps\surf_ski_3_nova_x_prefab.vmap"		"maps\surf_ski_3_nova_x.vmf"
+	}
+}

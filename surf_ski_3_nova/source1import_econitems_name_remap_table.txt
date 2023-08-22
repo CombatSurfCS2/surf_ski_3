@@ -1,0 +1,3 @@
+"econitems_name_remap_table"
+{
+}
