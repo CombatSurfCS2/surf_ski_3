@@ -1,4 +1,0 @@
-models/weapons/w_snip_awp.mdl
-models/weapons/w_shot_nova.mdl
-models/ski_2_infir/ski_3_closer.mdl
-models/surf_ski_3/surf_ski_3_original.mdl

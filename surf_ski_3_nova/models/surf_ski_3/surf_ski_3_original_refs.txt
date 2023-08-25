@@ -1,5 +1,0 @@
-importfilelist
-{
-	"file"	"materials\models\surf_ski_3\corner.vmt"
-	"file"	"materials\models\surf_ski_3\center.vmt"
-}
