@@ -1,0 +1,6 @@
+"Layer0"
+{
+	"shader"		"sky.vfx"
+	"F_TEXTURE_FORMAT2"		"1"
+	"SkyTexture"		"materials/skybox/vertigo_cube.pfm"
+}

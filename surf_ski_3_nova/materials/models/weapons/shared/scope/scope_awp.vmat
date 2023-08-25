@@ -1,0 +1,30 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/weapons/shared/scope/scope_color.tga"
+	"TextureNormal"		"materials/models/weapons/shared/scope/scope_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.188616"
+	"TextureRoughness"		"materials/models/weapons/shared/scope/scope_normal_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$phongdisablehalflambert"		"1"
+			"$baseTexture"		"models/weapons/shared/scope/scope"
+			"$bumpMap"		"models/weapons/shared/scope/scope_normal"
+			"$phong"		"1"
+			"$phongBoost"		"1"
+			"$phongExponent"		"200"
+			"$phongTint"		"[ .8 1 .9 ]"
+			"$phongFresnelRanges"		"[.2 .2 1]"
+			"$envmap"		"env_cubemap"
+			"$envmapfresnel"		"1"
+			"$envmaptint"		"[ .16 .2 .16 ]"
+			"$basealphaenvmapmask"		"1"
+		}
+	}
+}
