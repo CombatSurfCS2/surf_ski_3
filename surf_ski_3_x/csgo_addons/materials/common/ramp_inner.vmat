@@ -18,7 +18,7 @@ Layer0
 	g_vTexCoordCenter1 "[0.500 0.500]"
 	g_vTexCoordOffset1 "[0.000 0.000]"
 	g_vTexCoordScale1 "[1.000 1.000]"
-	TextureAmbientOcclusion1 "materials/common/textures/ramp_inner/ramp_inner_ao.jpg"
+	TextureAmbientOcclusion1 "materials/common/textures/ramp_inner/ramp_inner_metal.jpg"
 	TextureColor1 "materials/common/textures/ramp_inner/ramp_inner_color.jpg"
 	TextureHeight1 "materials/default/default_height.tga"
 	TextureMetalness1 "materials/common/textures/ramp_inner/ramp_inner_metal.jpg"
@@ -29,4 +29,9 @@ Layer0
 	//---- Texture Address Mode ----
 	g_nTextureAddressModeU "0" // Wrap
 	g_nTextureAddressModeV "0" // Wrap
+
+
+	VariableState
+	{
+	}
 }
