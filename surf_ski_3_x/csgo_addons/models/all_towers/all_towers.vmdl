@@ -23,7 +23,7 @@
 							},
 							{
 								from = "glass.vmat"
-								to = "materials/common/unbreakable_glass.vmat"
+								to = "models/de_overpass/industrial/industrial_door/safety_glass_001.vmat"
 							},
 							{
 								from = "highlight.vmat"
