@@ -14,16 +14,8 @@
 						remaps = 
 						[
 							{
-								from = "cage.vmat"
-								to = "materials/common/cage.vmat"
-							},
-							{
-								from = "material.vmat"
-								to = "materials/common/lock.vmat"
-							},
-							{
-								from = ""
-								to = "materials/common/lock.vmat"
+								from = "details.vmat"
+								to = "materials/common/cage_details.vmat"
 							},
 						]
 						use_global_default = false

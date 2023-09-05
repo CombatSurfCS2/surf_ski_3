@@ -5,7 +5,7 @@ Layer0
 	shader "csgo_simple.vfx"
 
 	//---- Ambient Occlusion ----
-	TextureAmbientOcclusion "materials/common/textures/cage/cage_metallic.png"
+	TextureAmbientOcclusion "materials/common/textures/cage/cage_rough.jpg"
 
 	//---- Color ----
 	g_flModelTintAmount "1.000"
@@ -24,12 +24,37 @@ Layer0
 
 	//---- Lighting ----
 	g_flMetalness "0.000"
-	TextureRoughness "materials/common/textures/cage/cage_rough.png"
+	TextureRoughness "materials/common/textures/cage/cage_rough.jpg"
 
 	//---- Normal Map ----
-	TextureNormal "materials/common/textures/cage/cage_normal.png"
+	TextureNormal "materials/common/textures/cage/cage_normal.jpg"
 
 	//---- Texture Address Mode ----
 	g_nTextureAddressModeU "0" // Wrap
 	g_nTextureAddressModeV "0" // Wrap
+
+
+	VariableState
+	{
+		"Ambient Occlusion"
+		{
+		}
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Lighting"
+		{
+			"Roughness" 0
+			"Metalness" 0
+		}
+		"Normal Map"
+		{
+		}
+		"Texture Address Mode"
+		{
+		}
+	}
 }
