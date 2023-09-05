@@ -15,11 +15,11 @@
 						[
 							{
 								from = "ramp_inner.vmat"
-								to = "materials/common/ramp_inner.vmat"
+								to = "materials/common/scuffed_cement.vmat"
 							},
 							{
 								from = "ramp_outline.vmat"
-								to = "materials/common/ramp_outline.vmat"
+								to = "materials/common/red_plaster_weathered.vmat"
 							},
 						]
 						use_global_default = false

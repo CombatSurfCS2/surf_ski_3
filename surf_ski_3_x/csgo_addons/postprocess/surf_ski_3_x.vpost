@@ -42,8 +42,8 @@
 			m_pLayerMask = null
 			m_params = 
 			{
-				m_flExposureBias = 0.0
-				m_flShoulderStrength = 0.01
+				m_flExposureBias = -0.4
+				m_flShoulderStrength = 0.0
 				m_flLinearStrength = 0.0009
 				m_flLinearAngle = 0.0009
 				m_flToeStrength = 1.0
