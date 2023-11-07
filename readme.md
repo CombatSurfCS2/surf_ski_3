@@ -1,7 +1,7 @@
 # surf_ski_3_x
 <!-- <a href=""> Download url <href/> -->
 <div style="display: flex; justify-content: center;">
-    <img src="" style="border-radius: 10px"/>
+    <img src="https://github.com/CombatSurfCS2/surf_ski_3/assets/102309602/b5bd999b-ba6a-45fe-87a4-0ee68958295a" style="border-radius: 10px"/>
 </div>
 
 <br />
